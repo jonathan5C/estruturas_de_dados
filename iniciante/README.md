@@ -4,17 +4,17 @@
 
 ## Exercícios
 
-1. [ ] **Soma de Elementos**: Escreva uma função que calcule a soma de todos os números em um _array_.
+1. [x] **Soma de Elementos**: Escreva uma função que calcule a soma de todos os números em um _array_.
 
    - **Entrada dos dados**: `[1, 2, 3, 4, 5]`
    - **Retorno esperado**: `15`
 
-2. [ ] **Encontrar o Maior Valor**: Escreva uma função que encontre o maior número em um _array_.
+2. [x] **Encontrar o Maior Valor**: Escreva uma função que encontre o maior número em um _array_.
 
    - **Entrada dos dados**: `[10, 4, 25, 8, 15]`
    - **Retorno esperado**: `25`
 
-3. [ ] **Inverter uma String**: Use uma pilha para inverter uma _string_.
+3. [x] **Inverter uma String**: Use uma pilha para inverter uma _string_.
 
    - **Entrada dos dados**: `“hello”`
    - **Retorno esperado**: `“olleh”`
